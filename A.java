@@ -11,4 +11,8 @@ public class A
 	{
 		return id;
 	}
+	public void text()
+	{
+	System.out.print("Id");
+	}
 }

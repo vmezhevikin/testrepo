@@ -2,6 +2,13 @@ public class Test
 {
 	public static void main(String[] args)
 	{
+<<<<<<< HEAD
+		A a = new A();
+		B b = new B(35);
+=======
+	A a = new A();
+	a.sum();
 
+>>>>>>> 9975891d090a3228218b2e0e7f9c6b3737beab05
 	}
 }
